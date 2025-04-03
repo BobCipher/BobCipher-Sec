@@ -21,8 +21,8 @@ A tool for extracting and analyzing logs to detect suspicious activity.
 - Automation & Scripting (Python, Bash)
 
 ## 🏆 Certifications  
-- Security Blue Team Level 2 - [https://www.credly.com/badges/d35c0444-21fb-451b-9351-51231393d247]
-- Security Blue Team Level 1 - [https://www.credly.com/badges/a461111c-31b5-4dae-b457-248ebb9d7e13]
+- <a href="https://www.credly.com/badges/d35c0444-21fb-451b-9351-51231393d247">Security Blue Team Level 2</a>
+- <a href="https://www.credly.com/badges/a461111c-31b5-4dae-b457-248ebb9d7e13">Security Blue Team Level 1</a>
 
 ## 📬 Contact  
 📧 [https://www.linkedin.com/in/corentin-vale]
